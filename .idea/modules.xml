@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula02 Ex01/Aula02 Ex01.iml" filepath="$PROJECT_DIR$/Aula02 Ex01/Aula02 Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02Ex02/Aula02Ex02.iml" filepath="$PROJECT_DIR$/Aula02Ex02/Aula02Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula03Ex01/Aula03Ex01.iml" filepath="$PROJECT_DIR$/Aula03Ex01/Aula03Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LM.iml" filepath="$PROJECT_DIR$/.idea/LM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteAula01/TesteAula01.iml" filepath="$PROJECT_DIR$/TesteAula01/TesteAula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palmiraVai toma no cu/palmiraVai toma no cu.iml" filepath="$PROJECT_DIR$/palmiraVai toma no cu/palmiraVai toma no cu.iml" />
+    </modules>
+  </component>
+</project>
