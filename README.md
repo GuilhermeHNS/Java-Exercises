@@ -1,3 +1,3 @@
 # Java Exercises
  
-Exercises done in class
+Exercicios feitos em aula
